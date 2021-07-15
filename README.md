@@ -29,6 +29,7 @@ Se quiser modificar o código será necessário um editor de códigos de sua pre
   ![Inserindo Dados imagem](./screenshots/data-added-preview.png)
 
 - Versão Mobile
+
   ![Versão mobile imagem](./screenshots/main-layout-mobile-preview.png)
 
 ## Como usar
