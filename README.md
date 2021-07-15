@@ -29,11 +29,11 @@ Se quiser modificar o código será necessário um editor de códigos de sua pre
   ![Inserindo Dados imagem](./screenshots/data-added-preview.png)
 
 - Versão Mobile
-  ![Versão mobile imagem](./main-layout-mobile-preview.png)
+  ![Versão mobile imagem](./screenshots/main-layout-mobile-preview.png)
 
 ## Como usar
 
-Para usar essa aplicação basta dar um duplo clique no arquivo `index.html`, que a página será aberta no navegador padrão de seu computador.
+Para usar essa aplicação basta dar um duplo clique no arquivo `index.html`, que a página será aberta no navegador padrão de seu computador. Outra opção é acessar diretamente a url do projeto que está hospedado na Vercel, em: https://maratona-discover-dev-finances.vercel.app/
 
 ### 🛠 Tecnologias
 
